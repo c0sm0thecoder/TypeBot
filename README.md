@@ -13,7 +13,7 @@ This is a Python script that automates typing on the platform Monkeytype using t
 + ChromeDriver
 
 ## Usage
-1. Open the typing_bot.py script in an IDE or text editor.
+1. Open the typebot.py script in an IDE or text editor.
 2. Run the script.
 
 The bot will automatically open a new Chrome window, navigate to the Monkeytype website, and start typing.
